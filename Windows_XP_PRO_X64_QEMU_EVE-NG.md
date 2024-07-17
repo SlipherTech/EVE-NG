@@ -10,13 +10,14 @@ em achar drivers e softwares para o Windows XP!
 
 Inclui todos os drivers necessários para o funcionomanento completo
 Inclui os seguintes softwares pré-instalados:
-  1 - WireShark
-  2 - Winbox
-  3 - Advanced IP Scanner
-  4 - Angry IP scanner 
-  5 - Nmap
-  6 - Putty
-  7 - Supermium
+
+1. WireShark
+2. Winbox
+3. Advanced IP Scanner
+4. Angry IP scanner 
+5. Nmap
+6. Putty
+7. Supermium
 
 Para Instalar extraia e use use o Filezilla para fazer a transferencia para o ambiente do EVE-NG
 
