@@ -20,6 +20,10 @@ Inclui os seguintes softwares pré-instalados:
 6. Putty
 7. Supermium
 
+=============
+Atenção: Essa versão suporta apenas IPv6 estático, não é compativel com PPPoEv6, se for usar para laboratório apenas IPv4 irá funcionar. 
+=============
+
 Para Instalar extraia e use o Filezilla para fazer a transferencia para o ambiente do EVE-NG
 
 Nome do arquivo  | link de download
