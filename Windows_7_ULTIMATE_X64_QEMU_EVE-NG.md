@@ -26,6 +26,6 @@ Para Instalar extraia e use o Filezilla para fazer a transferencia para o ambien
 
 Nome do arquivo  | link de download
 ------------- | -------------
-Windows XP PRO x64  |  [Mediafire](https://www.mediafire.com/file/et3pwurra9hyerq/QEMU_EVE-NG_win-xp-x64PROSP2.7z "Mediafire") 
+Windows 7 Ultimate x64  |  [Mediafire](https://www.mediafire.com/file/ka6mznc9hxh1fso/QEMU_EVE-NG_win-7-x64ULTIMATESP1.7z "Mediafire") 
 
 Senha: Sliphertech
